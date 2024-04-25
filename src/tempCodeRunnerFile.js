@@ -10,7 +10,7 @@ export default class App extends Component {
   
 
   render() {
-    const router = createBrowserRouter([
+    const  router = createBrowserRouter([
       {path : "/business",
       element:<><div>
       <Navbar/>
